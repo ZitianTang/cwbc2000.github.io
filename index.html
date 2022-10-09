@@ -1,340 +1,163 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-us">
-  <head>
+    <head>
 	<meta name="generator" content="Hugo 0.104.3" />
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1"><title> - Astatine Theme</title>
-<meta property="og:title" content=" - Astatine Theme">
-<meta property="og:type" content="website">
+        <meta charset="utf-8">
+        
+        <meta content="Michael Bluth" name="author">
+        
+        
+        <meta content="Go ahead, touch the Cornballer" name="description">
+        
+        
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta property="og:title" content="No Borders, No Limits" />
+<meta property="og:description" content="Go ahead, touch the Cornballer" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://example.com/" />
 
 
-<meta property="og:image" content="img/main.jpg">
+        <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="No Borders, No Limits"/>
+<meta name="twitter:description" content="Go ahead, touch the Cornballer"/>
+<meta name="twitter:site" content="@https://twitter.com/example"/>
 
-<meta property="og:url" content="https://hugcis.github.io/hugo-astatine-theme/">
+        
+        <title>No Borders, No Limits</title>
+        
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" rel="stylesheet">
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet">
+        
+        <link href="https://example.com/index.xml" rel="alternate" title="No Borders, No Limits" type="application/rss&#43;xml">
+        
+        
+    </head>
+    <body class="d-flex flex-column">
+        <div class="container flex-fill">
+            
+            <header>
+                <div class="row">
+                    <div class="col">
+                        <nav class="d-flex justify-content-center my-3">
+                            <ul class="nav nav-pills">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/" class="nav-link active">Home</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/about/" class="nav-link">About</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/blog/" class="nav-link">Blog</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/articles/" class="nav-link">Articles</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/projects/" class="nav-link">Projects</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/categories/" class="nav-link">Categories</a></li>
+                                
+                                
+                                
+                                
+                                <li class="nav-item"><a href="/tags/" class="nav-link">Tags</a></li>
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </header>
+            
+            <main>
+                
 
-
-
-
-<link rel="stylesheet" href="https://hugcis.github.io/hugo-astatine-theme/css/style.min.css">
-
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta name="theme-color" content="#ffffff">
-<link rel="webmention" href="https://webmention.io/hugocisneros.com/webmention">
-<link rel="pingback" href="https://webmention.io/hugocisneros.com/xmlrpc">
-
-
-<script>function updateMode(){localStorage.theme==="dark"||!("theme"in localStorage)&&window.matchMedia("(prefers-color-scheme: dark)").matches?document.documentElement.classList.add("dark"):document.documentElement.classList.remove("dark")}function toggleMode(){localStorage.theme==="dark"?localStorage.theme="light":localStorage.theme="dark",updateMode()}window.onload=updateMode();function toggleMenu(){let e=document.getElementById("navbar-default");e.classList.contains("hidden")?e.classList.remove("hidden"):e.classList.add("hidden")}</script>
-
-  </head>
-  <body>
-    <header class="md:px-0 px-2">
-        <nav >
-  <div class="container flex flex-wrap justify-between items-center mx-auto">
-    <div class="nav-main my-2.5">
-      <a href="https://hugcis.github.io/hugo-astatine-theme/" class="nav-title py-2.5 text-2xl text-zinc-600 dark:text-zinc-300 hover:border-b-0">Astatine Theme</a>
+<div class="row text-center">
+    <div class="col">
+        
+        <h1 class="display-1 fw-bold">No Borders, No Limits</h1>
+        
+        
+        <p class="lead">Go ahead, touch the Cornballer</p>
+        
     </div>
-    <button type="button"
-            onclick="toggleMenu()"
-            class="inline-flex items-center p-2 ml-3
-                  text-sm text-gray-500
-                  rounded-lg md:hidden hover:bg-gray-100
-                  focus:outline-none focus:ring-2
-                  focus:ring-gray-200 dark:text-gray-400
-                  dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-            aria-controls="navbar-default"
-            aria-expanded="false">
-        <span class="sr-only">Open main menu</span>
-        <svg class="w-6 h-6" aria-hidden="true" fill="currentColor"
-             viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-          <path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1
-                           0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0
-                           01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0
-                           01-1-1z" clip-rule="evenodd"></path>
-        </svg>
-    </button>
-    <div class="hidden w-full md:block md:w-auto" id="navbar-default">
-      <ul class="grid md:grid-flow-col items-center justify-between text-lg my-2.5">
-        
-        <li class="p-2.5 md:first:pl-0 md:border-none border-b list-none">
-          <a class="text-zinc-600 dark:text-zinc-300
-                    hover:border-b-0" href="/hugo-astatine-theme/post/">Posts</a>
-        </li>
-        
-        <li class="p-2.5 md:first:pl-0 md:border-none border-b list-none">
-          <a class="text-zinc-600 dark:text-zinc-300
-                    hover:border-b-0" href="/hugo-astatine-theme/categories/">Categories</a>
-        </li>
-        
-        <li class="p-2.5 md:first:pl-0 md:border-none border-b list-none">
-          <a class="text-zinc-600 dark:text-zinc-300
-                    hover:border-b-0" href="/hugo-astatine-theme/tags/">Tags</a>
-        </li>
-        
-        <li class="p-2.5 md:first:pl-0 md:border-none border-b list-none">
-          <a class="text-zinc-600 dark:text-zinc-300
-                    hover:border-b-0" href="/hugo-astatine-theme/about/">About</a>
-        </li>
-        
-        <li class="h-7 pl-2.5 pr-0 list-none">
-          <button type="button" onclick="toggleMode()" class="h-full"  aria-label="Toggle between dark and light mode">
-            <img class="h-7 w-7 max-h-full mb-1.5 p-1.5 hidden dark:inline"
-                 id="ligh-mode-button-img"
-                 alt="A sun icon for switching to light mode"
-                 src="https://hugcis.github.io/hugo-astatine-theme/img/light_mode.svg">
-            <img class="h-7 w-7 max-h-full mb-1.5 p-1.5 inline dark:hidden"
-                 id="dark-mode-button-img"
-                 alt="A moon icon for switching to dark mode"
-                 src="https://hugcis.github.io/hugo-astatine-theme/img/dark_mode.svg">
-          </button>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+</div>
 
-
-    </header>
-    <main class="content h-card container mt-2 m-auto
-                 leading-loose md:px-0 px-2 z-0 Page(/_index.md)"
-          role="main">
-    
-    <div class="head container grid sm:grid-cols-2 grid-cols-1
-            justify-around flex-wrap items-center"
-     itemscope itemtype="http://schema.org/Person">
-    <div class="picture p-8 max-w-[80%] mx-auto basis-20 grow shrink"
-         itemscope itemtype="http://schema.org/ImageObject">
-        <picture>
-            
-            <source srcset="img/main.jpg"
-                    >
-            <img class="main-image u-photo mx-auto"
-                 itemprop="contentUrl" alt="Main picture"
-                 src="img/main.jpg">
-        </picture>
+<div class="row py-3">
+    <div class="col">
+      <div class="rounded-4" style="background-image: url('https://example.com/cover.jpg'); background-position: center; background-size: cover; height: 20rem; max-width: 100%"></div>
     </div>
-    <div class="mx-4 ml-8 basis-60 grow shrink-2 leading-snug text-base">
-        <a  class="u-url font-bold" rel="me" itemprop="url" href="https://hugcis.github.io/hugo-astatine-theme/">
-            <h1 class="text-black dark:text-zinc-300 p-name border-0"
-                itemprop="name">Astatine
-            </h1>
-        </a>
-        
-        <h2 itemprop="jobTitle" class="text-xl my-0 border-none">Chemical element</h2>
-            
-            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-            <span itemprop="streetAddress">
-                Everywhere
-                <br>
-                Nowhere
-            </span>
-            <br>
-            <span itemprop="postalCode">000000</span>
-            <span itemprop="addressLocality">Earth</span>
-            <br>
-            
-            
-            <br>
+</div>
+<div class="d-flex justify-content-center py-3 row">
+    <div class="col-12 col-xl-10">
+        <div class="d-flex justify-content-evenly align-items-center row">
+            <div class="col-12 col-md-6">
+                <p class="display-5 fw-bold lh-1">You know <a href="https://bluthipsum.com">best</a></p>
+                <p class="lead"><p class="lead">There's a new daddy in town. A discipline daddy. If I make this comeback, I'll buy you a hundred George Michaels that you can teach to drive! These are my awards, Mother. From Army. The seal is for marksmanship, and the gorilla is for sand racing. We'll have to find something to do so that people can look at you without wanting to kill themselves.</p><p class="lead"><a href="https://github.com/willfaught/paige">A simple Hugo theme.</a></p></p>
             </div>
+            <div class="col-12 col-md-6 text-center">
+                <img alt="Avatar" class="img-fluid rounded-4" src="https://example.com/avatar.jpg" style="max-height:20rem">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="py-3 row">
+    <div class="col text-center">
+        
+        <a href="http://discord.com/users/example"><i class="bi bi-discord display-6 px-2"></i></a>
+        
+        <a href="mailto:example@example.com"><i class="bi bi-envelope display-6 px-2"></i></a>
+        
+        <a href="https://facebook.com/example"><i class="bi bi-facebook display-6 px-2"></i></a>
+        
+        <a href="https://github.com/example"><i class="bi bi-github display-6 px-2"></i></a>
+        
+        <a href="https://instagram.com/example"><i class="bi bi-instagram display-6 px-2"></i></a>
+        
+        <a href="https://www.linkedin.com/in/example"><i class="bi bi-linkedin display-6 px-2"></i></a>
+        
+        <a href="https://reddit.com/u/example"><i class="bi bi-reddit display-6 px-2"></i></a>
+        
+        <a href="https://www.twitch.tv/example"><i class="bi bi-twitch display-6 px-2"></i></a>
+        
+        <a href="https://twitter.com/example"><i class="bi bi-twitter display-6 px-2"></i></a>
+        
+        <a href="https://www.youtube.com/user/example"><i class="bi bi-youtube display-6 px-2"></i></a>
+        
+    </div>
+</div>
+
+
+            </main>
             
-    </div>
-</div>
-
-    <h1 id="bio">Bio</h1>
-<p>I am a chemical element with the symbol At and atomic number 85. I am 
-the rarest naturally occurring element in the Earth&rsquo;s crust, occurring only as
-the decay product of various heavier elements. All of my isotopes are
-short-lived; the most stable is astatine-210, with a half-life of 8.1 hours.</p>
-<p>A pure sample of myself has never been assembled, because any macroscopic
-specimen would be immediately vaporized by the heat of its own radioactivity.</p>
-
-    
-        <h2 id="publications">Publications</h2>
-    
-    
-        <div class="pub-wrapper w-full inline-flex flex-wrap items-center
-            my-1.5 p-2.5 rounded bg-slate-100 dark:bg-slate-700 box-border
-            leading-tight justify-around" id="measurement-of-the-first-ionization-potential-of-astatine-by-laser-ionization-spectroscopy"
-     itemscope itemtype="http://schema.org/ScholarlyArticle">
-    <div class="pub-image basis-40 grow-0 shrink" itemprop="image"
-         itemscope itemtype="http://schema.org/ImageObject">
-        <img alt="Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy paper illustration"
-             itemprop="url" src="img/paper_illustration.png"
-             class="w-full"/>
-    </div>
-    <div class="publication grow shrink-2 basis-3/4 my-1.5 mx-2">
-        <b><span itemprop="author">Rothe, S.</span></b>,
+            <footer>
+                <div class="justify-content-center row">
+                    <div class="col col-auto">
+                        <p class="text-muted" style="max-width:100ch">© Michael Bluth</p>
+                    </div>
+                </div>
+            </footer>
+            
+        </div>
+        <script crossorigin="anonymous" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
         
-        <span itemprop="author">Andreyev, A. N.</span>
         
-        <span itemprop="author">Antalic, S.</span>
-        
-        <span itemprop="author">Borschevsky, A.</span>
-        
-        <span itemprop="author">Capponi, L.</span>
-        
-        <span itemprop="author">Cocolios, T. E.</span>
-        
-        <span itemprop="author">De Witte, H.</span>
-        
-        <span itemprop="author">Eliav, E</span>
-        
-        <br>
-        <b>
-            <a href="https://www.nature.com/articles/ncomms2819.pdf">
-                <span itemprop="name">Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy</span>
-            </a>
-        </b>
-        <meta itemprop="headline" content="Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy"/>
-        <br>
-        
-        <div>
-        In <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-            <i itemprop="name">Nature Communications</i></span>,
-        
-        <meta itemprop="datePublished" content="2013">2013.
-        </div><div itemprop="description" class="pub-description text-sm my-1.5">The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.</div><div class="pub-link-wrapper mt-1.5 text-sm"><span class="publication-link cursor-pointer
-                         bg-sky-600 dark:bg-sky-700
-                         hover:bg-sky-800
-                         dark:hover:bg-sky-500
-                         text-white
-                         dark:text-zinc-200
-                         dark:hover:text-gray-800
-                         hover:text-gray-900
-                         rounded-sm p-1 mr-1">
-                <button class="open-modal text-inherit"
-                        data-target="#open-modal-measurement-of-the-first-ionization-potential-of-astatine-by-laser-ionization-spectroscopy">Cite</button></span><span class="publication-link bg-sky-600
-                         dark:bg-sky-700 rounded-sm p-1
-                         dark:hover:bg-sky-500
-                         hover:bg-sky-800 mr-1"><a class="border-none
-                         text-white
-                         dark:text-zinc-200
-                         hover:text-gray-900
-                          hover:dark:text-gray-800"
-                   itemprop="mainEntityOfPage" href="https://www.nature.com/articles/ncomms2819">Main URL</a></span><span class="publication-link bg-sky-600
-                         dark:bg-sky-700 rounded-sm p-1
-                         dark:hover:bg-sky-500
-                         hover:bg-sky-800 mr-1"><a class="border-none
-                         text-white
-                         dark:text-zinc-200
-                         hover:text-gray-900
-                          hover:dark:text-gray-800"
-                   itemprop="mainEntityOfPage" href="https://www.researchgate.net/publication/236836716_Measurement_of_the_first_ionization_potential_of_astatine_by_laser_ionization_spectroscopy">ResearchGate</a></span></div>
-    </div>
-</div>
-
-    
-    
-    
-<div id="#open-modal-measurement-of-the-first-ionization-potential-of-astatine-by-laser-ionization-spectroscopy"
-     class="modal-window bg-tp-black invisible fixed top-0 left-0
-            right-0 bottom-0 transition-all pointer-events-none z-50">
-    <div class="absolute top-1/2 left-1/2 p-8 bg-white
-                dark:bg-neutral-700
-
-                max-w-full
-                rounded-md max-w-4/5 -translate-x-1/2 -translate-y-1/2">
-        <button id="#close-modal-measurement-of-the-first-ionization-potential-of-astatine-by-laser-ionization-spectroscopy" title="Close" class="modal-close rounded-sm p-2">✕</button>
-        <h3>Cite <i>Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy</i></h3>
-        <button class="modal-copy-citation pr-2 pl-1 my-2 ml-2
-                       bg-sky-600 dark:bg-sky-700 rounded-sm
-                       text-white
-                       dark:text-zinc-200
-                       dark:hover:text-gray-800
-                       hover:text-gray-900
-                       hover:bg-sky-800
-                       disabled:bg-neutral-500
-                       hover:disabled:text-white
-                       dark:hover:disabled:text-zinc-200
-                       dark:disabled:bg-neutral-500
-                       dark:hover:bg-sky-500" id="#copy-2ede6eea">Copy to clipboard</button>
-        <pre class="bg-slate-100 dark:bg-slate-800"><code id="2ede6eea">@article{article,
- author = {Rothe, Sebastian and Andreyev, A and Antalic, Stanislav and Borschevsky, Anastasia and Capponi, Luigi and Cocolios, Thomas and De Witte, Hilde and Eliav, Ephraim and Fedorov, D.V. and Fedosseev, Valentin and Fink, D and Fritzsche, s and Ghys, Lars and Huyse, M and Imai, Nobuaki and Kaldor, U and Kudryavtsev, Yu and Koester, Ulli and Lane, J and Wendt, Klaus},
- year = {2013},
- month = {05},
- pages = {1835},
- title = {Measurement of the first ionization potential of astatine by laser ionization spectroscopy},
- volume = {4},
- journal = {Nature communications},
- doi = {10.1038/ncomms2819}
- }</code></pre>
-    </div>
-</div>
-
-
-    
-
-    </main>
-    <footer class="footer container h-10 text-center mt-1">
-<hr class="my-4">
-  <ul class="pl-0 mt-1">
-    
-    <li class="ml-2 first:before:content-none before:content-['•']
-               inline-block list-none">
-      <a class="ml-2 text-neutral-800
-                dark:text-neutral-400 border-none"
-          href="https://github.com/hugcis/hugo-astatine-theme">Code</a>
-    </li>
-    <li class="ml-2 first:before:content-none before:content-['•']
-                text-neutral-800 dark:text-neutral-400 inline-block list-none">
-      <span class="ml-2">© Jack Harkness 2022</span>
-    </li>
-  </ul>
-</footer>
-<script>
- 
- function toggleModal(win) {
-     return ((event) => {
-         if (event.target.id.startsWith("#open-modal") || 
-             event.target.id.startsWith("#close-modal") || 
-             event.target.classList.contains("open-modal")) {
-             event.stopPropagation();
-             win.classList.toggle("invisible");
-             win.classList.toggle("pointer-events-auto");
-             document.body.classList.toggle("pointer-events-none");
-         }
-     });
- }
- var list = document.getElementsByClassName("open-modal");
- for (let item of list) {
-     var id = item.attributes["data-target"].textContent;
-	 var modWin = document.getElementById(id);
-     var closeButton = document.getElementById(id.replace("open", "close"));
-
-	 item.addEventListener('click', toggleModal(modWin));
-     closeButton.addEventListener('click', toggleModal(modWin));
-     modWin.addEventListener('click', toggleModal(modWin));
- }
- var clipboardCopyButtons = document.getElementsByClassName("modal-copy-citation");
- for (let button of clipboardCopyButtons) {
-     let citation_id = button.id.replace("#copy-", "");
-     let citation_text = document.getElementById(citation_id);
-     button.addEventListener('click', function (clicked) {
-        return function () {
-            if (!clicked) {
-                var last = this.innerHTML;
-                navigator.clipboard
-                         .writeText(citation_text.innerHTML)
-                         .then(() => {
-                             this.innerHTML = "Copied!";
-                             this.disabled = true;
-                         },
-                               () => {this.innerHTML = "Error copying!";});
-                clicked = true;
-                setTimeout(function () {
-                    this.innerHTML = last;
-                    this.disabled = false;
-                    clicked = false;
-                }.bind(this), 1000);
-            }
-        };
-     }(false), this);
- }
-</script>
-
-
-  </body>
+    </body>
 </html>

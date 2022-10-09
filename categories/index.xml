@@ -1,28 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Astatine Theme</title>
-    <link>https://hugcis.github.io/hugo-astatine-theme/categories/</link>
-    <description>Recent content in Categories on Astatine Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
+    
+    <title>Categories · No Borders, No Limits</title>
+    
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories · No Borders, No Limits</description>
+    
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://hugcis.github.io/hugo-astatine-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    <copyright>© Michael Bluth</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
     <item>
-      <title>Metaphorsum</title>
-      <link>https://hugcis.github.io/hugo-astatine-theme/categories/metaphorsum/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hugcis.github.io/hugo-astatine-theme/categories/metaphorsum/</guid>
-      <description></description>
+      <title>bluth</title>
+      
+      
+      <link>https://example.com/categories/bluth/</link>
+      <guid>https://example.com/categories/bluth/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
     </item>
     
     <item>
-      <title>Post</title>
-      <link>https://hugcis.github.io/hugo-astatine-theme/categories/post/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hugcis.github.io/hugo-astatine-theme/categories/post/</guid>
-      <description></description>
+      <title>ipsum</title>
+      
+      
+      <link>https://example.com/categories/ipsum/</link>
+      <guid>https://example.com/categories/ipsum/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>syntax</title>
+      
+      
+      <link>https://example.com/categories/syntax/</link>
+      <guid>https://example.com/categories/syntax/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>themes</title>
+      
+      
+      <link>https://example.com/categories/themes/</link>
+      <guid>https://example.com/categories/themes/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
     </item>
     
   </channel>
