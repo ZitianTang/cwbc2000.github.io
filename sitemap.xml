@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/articles/</loc>
+    <loc>https://cwbc2000.github.io/articles/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/bluth/</loc>
+    <loc>https://cwbc2000.github.io/tags/bluth/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/bluth/</loc>
+    <loc>https://cwbc2000.github.io/categories/bluth/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/articles/bluth-ipsum/</loc>
+    <loc>https://cwbc2000.github.io/articles/bluth-ipsum/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://cwbc2000.github.io/categories/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ipsum/</loc>
+    <loc>https://cwbc2000.github.io/tags/ipsum/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/ipsum/</loc>
+    <loc>https://cwbc2000.github.io/categories/ipsum/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://cwbc2000.github.io/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://cwbc2000.github.io/tags/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://cwbc2000.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://cwbc2000.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://cwbc2000.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/11/markdown-syntax-guide/</loc>
+    <loc>https://cwbc2000.github.io/blog/2019/03/11/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://cwbc2000.github.io/blog/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://cwbc2000.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://cwbc2000.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/09/placeholder-text/</loc>
+    <loc>https://cwbc2000.github.io/blog/2019/03/09/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://cwbc2000.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/08/math-typesetting/</loc>
+    <loc>https://cwbc2000.github.io/blog/2019/03/08/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://cwbc2000.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/05/emoji-support/</loc>
+    <loc>https://cwbc2000.github.io/blog/2019/03/05/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://cwbc2000.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://cwbc2000.github.io/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://cwbc2000.github.io/tags/index/</loc>
   </url>
 </urlset>

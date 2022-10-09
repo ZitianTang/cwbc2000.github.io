@@ -20,14 +20,14 @@
     
     <title>emoji · No Borders, No Limits</title>
     
-    <link>https://example.com/tags/emoji/</link>
+    <link>https://cwbc2000.github.io/tags/emoji/</link>
     <description>Recent content in emoji · No Borders, No Limits</description>
     
     <language>en-us</language>
     
     
-    <managingEditor>example@example.com</managingEditor>
-    <webMaster>example@example.com</webMaster>
+    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
+    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
@@ -36,7 +36,7 @@
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 -0800</lastBuildDate>
     
     
-    <atom:link href="https://example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cwbc2000.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -44,14 +44,14 @@
       <title>Emoji Support</title>
       
       
-      <link>https://example.com/blog/2019/03/05/emoji-support/</link>
-      <guid>https://example.com/blog/2019/03/05/emoji-support/</guid>
+      <link>https://cwbc2000.github.io/blog/2019/03/05/emoji-support/</link>
+      <guid>https://cwbc2000.github.io/blog/2019/03/05/emoji-support/</guid>
       
       
       <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
       <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>

@@ -20,21 +20,21 @@
     
     <title>index · No Borders, No Limits</title>
     
-    <link>https://example.com/tags/index/</link>
+    <link>https://cwbc2000.github.io/tags/index/</link>
     <description>Recent content in index · No Borders, No Limits</description>
     
     <language>en-us</language>
     
     
-    <managingEditor>example@example.com</managingEditor>
-    <webMaster>example@example.com</webMaster>
+    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
+    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
     
     
     
-    <atom:link href="https://example.com/tags/index/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cwbc2000.github.io/tags/index/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -42,14 +42,14 @@
       <title>Posts</title>
       
       
-      <link>https://example.com/blog/</link>
-      <guid>https://example.com/blog/</guid>
+      <link>https://cwbc2000.github.io/blog/</link>
+      <guid>https://cwbc2000.github.io/blog/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>

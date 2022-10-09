@@ -20,14 +20,14 @@
     
     <title>Tags · No Borders, No Limits</title>
     
-    <link>https://example.com/tags/</link>
+    <link>https://cwbc2000.github.io/tags/</link>
     <description>Recent content in Tags · No Borders, No Limits</description>
     
     <language>en-us</language>
     
     
-    <managingEditor>example@example.com</managingEditor>
-    <webMaster>example@example.com</webMaster>
+    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
+    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
@@ -36,7 +36,7 @@
     <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
     
     
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cwbc2000.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -44,14 +44,14 @@
       <title>bluth</title>
       
       
-      <link>https://example.com/tags/bluth/</link>
-      <guid>https://example.com/tags/bluth/</guid>
+      <link>https://cwbc2000.github.io/tags/bluth/</link>
+      <guid>https://cwbc2000.github.io/tags/bluth/</guid>
       
       
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -61,14 +61,14 @@
       <title>ipsum</title>
       
       
-      <link>https://example.com/tags/ipsum/</link>
-      <guid>https://example.com/tags/ipsum/</guid>
+      <link>https://cwbc2000.github.io/tags/ipsum/</link>
+      <guid>https://cwbc2000.github.io/tags/ipsum/</guid>
       
       
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -78,14 +78,14 @@
       <title>css</title>
       
       
-      <link>https://example.com/tags/css/</link>
-      <guid>https://example.com/tags/css/</guid>
+      <link>https://cwbc2000.github.io/tags/css/</link>
+      <guid>https://cwbc2000.github.io/tags/css/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -95,14 +95,14 @@
       <title>html</title>
       
       
-      <link>https://example.com/tags/html/</link>
-      <guid>https://example.com/tags/html/</guid>
+      <link>https://cwbc2000.github.io/tags/html/</link>
+      <guid>https://cwbc2000.github.io/tags/html/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -112,14 +112,14 @@
       <title>markdown</title>
       
       
-      <link>https://example.com/tags/markdown/</link>
-      <guid>https://example.com/tags/markdown/</guid>
+      <link>https://cwbc2000.github.io/tags/markdown/</link>
+      <guid>https://cwbc2000.github.io/tags/markdown/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -129,14 +129,14 @@
       <title>text</title>
       
       
-      <link>https://example.com/tags/text/</link>
-      <guid>https://example.com/tags/text/</guid>
+      <link>https://cwbc2000.github.io/tags/text/</link>
+      <guid>https://cwbc2000.github.io/tags/text/</guid>
       
       
       <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -146,14 +146,14 @@
       <title>emoji</title>
       
       
-      <link>https://example.com/tags/emoji/</link>
-      <guid>https://example.com/tags/emoji/</guid>
+      <link>https://cwbc2000.github.io/tags/emoji/</link>
+      <guid>https://cwbc2000.github.io/tags/emoji/</guid>
       
       
       <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -163,12 +163,12 @@
       <title>index</title>
       
       
-      <link>https://example.com/tags/index/</link>
-      <guid>https://example.com/tags/index/</guid>
+      <link>https://cwbc2000.github.io/tags/index/</link>
+      <guid>https://cwbc2000.github.io/tags/index/</guid>
       
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>

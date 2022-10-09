@@ -20,14 +20,14 @@
     
     <title>Categories · No Borders, No Limits</title>
     
-    <link>https://example.com/categories/</link>
+    <link>https://cwbc2000.github.io/categories/</link>
     <description>Recent content in Categories · No Borders, No Limits</description>
     
     <language>en-us</language>
     
     
-    <managingEditor>example@example.com</managingEditor>
-    <webMaster>example@example.com</webMaster>
+    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
+    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
@@ -36,7 +36,7 @@
     <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
     
     
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cwbc2000.github.io/categories/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -44,14 +44,14 @@
       <title>bluth</title>
       
       
-      <link>https://example.com/categories/bluth/</link>
-      <guid>https://example.com/categories/bluth/</guid>
+      <link>https://cwbc2000.github.io/categories/bluth/</link>
+      <guid>https://cwbc2000.github.io/categories/bluth/</guid>
       
       
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -61,14 +61,14 @@
       <title>ipsum</title>
       
       
-      <link>https://example.com/categories/ipsum/</link>
-      <guid>https://example.com/categories/ipsum/</guid>
+      <link>https://cwbc2000.github.io/categories/ipsum/</link>
+      <guid>https://cwbc2000.github.io/categories/ipsum/</guid>
       
       
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -78,14 +78,14 @@
       <title>syntax</title>
       
       
-      <link>https://example.com/categories/syntax/</link>
-      <guid>https://example.com/categories/syntax/</guid>
+      <link>https://cwbc2000.github.io/categories/syntax/</link>
+      <guid>https://cwbc2000.github.io/categories/syntax/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
@@ -95,14 +95,14 @@
       <title>themes</title>
       
       
-      <link>https://example.com/categories/themes/</link>
-      <guid>https://example.com/categories/themes/</guid>
+      <link>https://cwbc2000.github.io/categories/themes/</link>
+      <guid>https://cwbc2000.github.io/categories/themes/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>example@example.com</author>
+      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>

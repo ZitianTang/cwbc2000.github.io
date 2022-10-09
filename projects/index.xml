@@ -18,21 +18,21 @@
     
     <title>No Borders, No Limits</title>
     
-    <link>https://example.com/projects/</link>
+    <link>https://cwbc2000.github.io/projects/</link>
     <description>Recent content in No Borders, No Limits</description>
     
     <language>en-us</language>
     
     
-    <managingEditor>example@example.com</managingEditor>
-    <webMaster>example@example.com</webMaster>
+    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
+    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
     
     
     
-    <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cwbc2000.github.io/projects/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>
