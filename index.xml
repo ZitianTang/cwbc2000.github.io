@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zitian Tang</title>
-    <link>cwbc2000.github.io/</link>
-    <description>Recent content on Zitian Tang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="cwbc2000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Astatine Theme</title>
+    <link>https://hugcis.github.io/hugo-astatine-theme/</link>
+    <description>Recent content on Astatine Theme</description>
+    
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://hugcis.github.io/hugo-astatine-theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
